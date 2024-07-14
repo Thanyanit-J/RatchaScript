@@ -1,0 +1,12 @@
+{
+  "name": "ratchascript",
+  "version": "1.0.0",
+  "description": "Convert JS to Thai language and vice versa",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thanyanit Jongjitragan",
+  "license": "MIT",
+"type": "module"
+}
